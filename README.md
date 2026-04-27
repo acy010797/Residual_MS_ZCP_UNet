@@ -1,1 +1,2 @@
 # Residual_MS_ZCP_UNet
+This repository presents a deep learning-based framework for accurate breast tumor segmentation from ultrasound images. The proposed Residual Multi-Scale ZCP U-Net integrates multi-scale feature extraction, residual learning, and an attention mechanism (ZCP block) to improve segmentation performance under challenging conditions such as speckle noise, low contrast, and irregular tumor boundaries.
